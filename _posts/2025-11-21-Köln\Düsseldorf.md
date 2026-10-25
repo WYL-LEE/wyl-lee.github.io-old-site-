@@ -25,7 +25,7 @@ read_time: false
 </div>
 </details>
 <details class="day">
-<summary><b>Day 2</b><span>科隆 · 畢卡索與百年啤酒館</span></summary>
+<summary><b>Day 2</b><span>科隆 · 路德維希博物館與百年啤酒館</span></summary>
 <p>第二天去了路德維希博物館（Museum Ludwig），裡面收藏了許多畢卡索的作品。晚餐則去了一間很有名的百年啤酒館，當然不能錯過德式豬腳和啤酒！</p>
 <div class="swipe">
 </div>
