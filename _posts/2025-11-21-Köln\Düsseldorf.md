@@ -20,24 +20,31 @@ read_time: false
 <summary><b>Day 1</b><span>科隆 · 大教堂與聖誕市集</span></summary>
 <p>第一次看到科隆大教堂真的有被震撼到，是一座非常壯觀的哥德式教堂。教堂前面就有聖誕市集，其實在城市的其他區域也有許多大大小小的市集，每個地方都有不同的氛圍。</p>
 <p>第一天吃了 Döner，晚上就開始逛聖誕市集、喝熱可可！而且每一年、每個地方的聖誕市集杯子都長得不一樣喔，所以有些人會特別收集各地的杯子，覺得很有紀念價值。</p>
-<div class="swipe">
-<!-- 照片貼在這裡，格式：<figure><img src="路徑" alt="描述"><figcaption>說明</figcaption></figure> -->
-</div>
 </details>
 <details class="day">
 <summary><b>Day 2</b><span>科隆 · 路德維希博物館與百年啤酒館</span></summary>
 <p>第二天去了路德維希博物館（Museum Ludwig），裡面收藏了許多畢卡索的作品。晚餐則去了一間很有名的百年啤酒館，當然不能錯過德式豬腳和啤酒！</p>
-<div class="swipe">
-</div>
 </details>
 <details class="day">
 <summary><b>Day 3</b><span>杜塞道夫 · 初雪與萊茵河</span></summary>
 <p>第三天去了距離科隆大約一小時車程的杜塞道夫（Düsseldorf）。雖然一開始天氣很冷，但也在這裡看到了歐洲的初雪！</p>
 <p>相較於科隆，杜塞道夫的知名度可能沒有那麼高，但我自己反而更喜歡這座可愛的城市。萊茵河畔真的很漂亮，聽說這裡也是一座充滿日式文化的城市。不過，我們去的那天剛好遇上德國亡靈節，所以聖誕市集都還沒開，只好改去喝當地特色的 Altbier（傳統上層發酵啤酒）。</p>
 <p>也去了杜塞道夫很有名的國王大道（Königsallee），街道很漂亮，也很適合散步。雖然這次沒能逛到聖誕市集有點可惜，但萊茵河畔的風景很漂亮，還遇上歐洲的初雪，也算是很特別的旅行回憶！</p>
-<div class="swipe">
-</div>
 </details>
+  <div class="swipe">
+<figure><img src="/images/Köln\Düsseldorf/cologne-6.jpeg" alt="藍天下的科隆大教堂尖塔"><figcaption>白天的大教堂</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-8.jpeg" alt="夕陽照亮的科隆大教堂正面"><figcaption>另一種角度的大教堂</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-5.jpeg" alt="夜晚的科隆大教堂正面"><figcaption>晚上的大教堂</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorfe/cologne-10.JPG" alt="大教堂內的彩色玻璃窗"><figcaption>科隆大教堂的彩色玻璃</figcaption></figure>
+</div>
+<div class="swipe">
+<figure><img src="/images/Köln\Düsseldorf/cologne-4.JPG" alt="大教堂前聖誕市集的星星拱門"><figcaption>大教堂前的聖誕市集</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-3.JPG" alt="聖誕市集入口前的巨大人偶"><figcaption>聖誕市集裡有巨大的人偶</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-2.JPG" alt="Farina 香水店紅色的遮陽棚"><figcaption>Farina，世界第一瓶古龍水就誕生在這家店</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-7.jpeg" alt="Früh am Dom 啤酒廳的招牌"><figcaption>百年啤酒廠，啤酒好喝！還買了啤酒杯回家</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-1.JPG" alt="杜塞道夫萊茵河對岸的房屋"><figcaption>漂亮的萊茵河畔</figcaption></figure>
+<figure><img src="/images/Köln\Düsseldorf/cologne-9.jpeg" alt="國王大道旁的水道與光禿的行道樹"><figcaption>杜塞道夫的國王大道</figcaption></figure>
+</div>
 </div>
 
 食物 {#food}
