@@ -2,13 +2,12 @@
 title: "科隆、杜塞道夫四天三夜"
 date: 2025-11-21-2025-11-24
 layout: single
-cover: /assets/images/london1-2.JPG
+cover: /images/Köln\Düsseldorf/cologne-8.jpeg
 author_profile: false
 share: false
 related: false
 read_time: false
 
-cover: /images/Köln\Düsseldorf/cologne-8.jpeg
 country: 德國
 period: 2025.11.21–11.24
 ---
