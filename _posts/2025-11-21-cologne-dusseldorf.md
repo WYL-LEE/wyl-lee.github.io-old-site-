@@ -2,7 +2,7 @@
 title: "科隆、杜塞道夫四天三夜"
 date: 2025-11-21-2025-11-24
 layout: single
-cover: /images/Köln\Düsseldorf/cologne-8.jpeg
+cover: /assets/images/berlin-27.jpg
 author_profile: false
 share: false
 related: false
