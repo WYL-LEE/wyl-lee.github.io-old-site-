@@ -7,6 +7,10 @@ author_profile: false
 share: false
 related: false
 read_time: false
+
+cover: /images/Köln\Düsseldorf/cologne-8.jpeg
+country: 德國
+period: 2025.11.21–11.24
 ---
 
 <style> .page__content p,.page__content li{font-size:15px;line-height:1.8} .page__content h3{font-size:1.1em;margin:1.8em 0 .3em} .jump{font-size:14px;color:#6b6f76} .swipe{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:thin;margin:12px 0 8px} .swipe figure{flex:none;margin:0;scroll-snap-align:start} .swipe img{height:300px;width:auto;max-width:none;display:block} .swipe figcaption{font-size:12.5px;line-height:1.5;color:#6b6f76;margin-top:6px;width:0;min-width:100%} </style> <p class="jump"><a href="#spots">景點</a> · <a href="#food">食物</a> · <a href="#snaps">隨手拍</a></p>
