@@ -5,27 +5,36 @@ layout: single
 author_profile: false
 ---
 
-## 出發 Departure
-
-桃園機場出發 → 法蘭克福機場 → 柏林布蘭登堡機場
-吃好、睡好，帶著一坨行李去到宿舍。
-
-## 旅程 Trips
-
-<style>
-.tripgrid{display:grid;grid-template-columns:1fr 1fr;gap:28px 24px}
-.card{display:block;color:inherit;text-decoration:none}
-.card img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block}
-.card h3{font-size:20px;margin:10px 0 0}
-@media (max-width:640px){.tripgrid{grid-template-columns:1fr}}
-</style>
-
-<div class="tripgrid">
-{% for post in site.posts %}
-<a class="card" href="{{ post.url | relative_url }}">
-  <img src="{{ post.cover | relative_url }}" alt="{{ post.title }}">
-  <h3>{{ post.title }}</h3>
-  <div>{{ post.date | date: "%Y" }}</div>
-</a>
-{% endfor %}
+<div class="works-filter">
+<button class="is-active" data-filter="all">全部</button>
+{%- assign countries = site.posts | map: "country" | compact | uniq | sort -%}
+{%- for c in countries -%}
+<button data-filter="{{ c }}">{{ c }}</button>
+{%- endfor -%}
 </div>
+
+<div class="works-grid">
+{%- for post in site.posts -%}
+{%- if post.cover -%}
+<a class="work" href="{{ post.url | relative_url }}" data-country="{{ post.country }}">
+<img src="{{ post.cover | relative_url }}" alt="{{ post.title }}" loading="lazy">
+<span class="work__title"><span>{{ post.title }}</span><span>{{ post.title }}</span></span>
+<span class="work__meta">{{ post.period }}</span>
+</a>
+{%- endif -%}
+{%- endfor -%}
+</div>
+
+<script>
+document.querySelectorAll('.works-filter button').forEach(function (btn) {
+  btn.addEventListener('click', function () {
+    document.querySelectorAll('.works-filter button').forEach(function (b) {
+      b.classList.toggle('is-active', b === btn);
+    });
+    var f = btn.dataset.filter;
+    document.querySelectorAll('.work').forEach(function (w) {
+      w.classList.toggle('is-hidden', f !== 'all' && w.dataset.country !== f);
+    });
+  });
+});
+</script>
